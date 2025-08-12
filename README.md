@@ -1,6 +1,6 @@
 # Python-threads
 codes used during projects
-# Python Codex — Practical Patterns You’ll Reuse
+# Python Codex — Practical Patterns
 
 A compact reference of production‑friendly Python patterns: dataclasses, pathlib, caching, context managers, generators, structured errors, CLI, logging, async, and testing.
 
